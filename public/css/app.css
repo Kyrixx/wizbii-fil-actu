@@ -1,0 +1,79 @@
+.feed {
+	margin: 25px auto;
+	padding: 25px 0;
+	background-color: #DADADA;
+	width: 666px;
+}
+
+.publication {
+	border: 1px solid white;
+	border-radius: 10px;
+	background-color: #FFF;
+	margin: 0 20px 20px 20px;
+	padding: 10px;
+}
+
+/*
+ * Publication Header
+ */
+
+.publication-header{
+	border: 1px solid #EFEFEF;
+	border-radius: 10px;
+	margin: 10px auto;
+	padding: 5px;
+	background-color: #EFEFEF;
+}
+
+.publication-header--userprofile {
+	
+}
+
+.publication-header--user {
+	padding-left: 40px;
+	padding-top: 20px;
+}
+
+.publication-header--avatar {
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+}
+
+.publication-header--tags {
+	padding : 5px;
+}
+
+/*
+ * Publication Body
+ */
+.publication-body--attachement {
+	margin:0 auto;
+	width: auto;
+	margin-bottom: 20px;
+}
+/*
+ * Publication Footer
+ */
+.publication-footer--textarea {
+	margin: 10px auto;
+	resize: vertical;
+	max-height: 150px; 
+    min-height: 75px; 
+}
+
+.publication-footer--buttons-row {
+	margin: 0 auto;
+}
+
+.publication-footer--button {
+	width: auto;
+	height: 40px;
+}
+
+.publication-footer--button img {
+	width: 30px;
+	height: 30px;
+	margin: 0 auto;
+	text-align: center
+}
