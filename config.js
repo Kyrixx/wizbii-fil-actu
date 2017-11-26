@@ -1,4 +1,4 @@
 module.exports = {
-	hostname: 'asus.dev',
+	hostname: 'localhost',
 	port: 8080
 }
